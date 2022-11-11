@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ifedyukin/sonar-issues-html.git"
+    "url": "git+https://github.com/debasis4/sonar-issues-html.git"
   },
   "keywords": [
     "sonar",
@@ -18,9 +18,9 @@
   "author": "Igor Fedyukin <igor_fedyukin@epam.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ifedyukin/sonar-issues-html/issues"
+    "url": "https://github.com/debasis4/sonar-issues-html.git"
   },
-  "homepage": "https://github.com/ifedyukin/sonar-issues-html#readme",
+  "homepage": "https://github.com/debasis4/sonar-issues-html.git#readme",
   "dependencies": {
     "pug": "2.0.3"
   }
