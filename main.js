@@ -30,7 +30,7 @@ function generateHtml(sonarData) {
   return render({
     sonar: sonarData,
     config,
-    url: process.env.URL || 'http://192.168.56.2:9000'
+    url: process.env.URL || 'http://192.168.56.3:9000'
   });
 }
 
